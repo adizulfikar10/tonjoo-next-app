@@ -43,7 +43,7 @@ export default function FibonacciCalculator() {
             htmlFor="firstSequence"
             className="block text-sm font-medium text-gray-700 mb-1"
           >
-            First Fibonacci Sequence (comma separated)
+            First Fibonacci Sequence
           </label>
           <input
             id="firstSequence"
@@ -60,7 +60,7 @@ export default function FibonacciCalculator() {
             htmlFor="secondSequence"
             className="block text-sm font-medium text-gray-700 mb-1"
           >
-            Second Fibonacci Sequence (comma separated)
+            Second Fibonacci Sequence
           </label>
           <input
             id="secondSequence"
