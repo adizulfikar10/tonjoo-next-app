@@ -33,3 +33,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ![screencapture-localhost-3000-2025-07-30-11_54_14](https://github.com/user-attachments/assets/6062fd3d-ecaa-4a8f-8765-b918edcbe917)
 ![screencapture-localhost-3000-transaction-2025-07-30-11_54_45](https://github.com/user-attachments/assets/f90210ad-d02a-4692-bc40-39e2e4f35146)
 ![screencapture-localhost-3000-transaction-edit-TRX-0000-2025-07-30-11_55_00](https://github.com/user-attachments/assets/64eee7df-a8ec-4d91-a2c3-13092b433e0b)
+<img width="1229" height="898" alt="Screenshot 2025-07-30 at 14 06 56" src="https://github.com/user-attachments/assets/d66904fa-0202-4bd3-b96f-5fdfc5c4f456" />
+
